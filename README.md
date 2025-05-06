@@ -21,7 +21,18 @@ This project is a practical tutorial that explores how hyperparameter tuning aff
 ## Project 3 - 🏙️ NYC SAT Scores Analysis
 This project focuses on analyzing SAT performance data from New York City public high schools to identify academic trends and top-performing institutions. Using Python and Pandas, I explored patterns in SAT scores across boroughs, evaluated summary statistics, and identified:
 
--Top 10 Best Performing Schools based on average SAT scores
--Best Math Schools based on math-specific performance
--Borough-wise Performance Visualizations to compare regional trends
+- Top 10 Best Performing Schools based on average SAT scores
+- Best Math Schools based on math-specific performance
+- Borough-wise Performance Visualizations to compare regional trends
 The project applies core data analysis techniques including data cleaning, aggregation, grouping, and visualization using libraries like Pandas, Numpy and Matplotlib.
+
+## Project 4 - 🎓 Nobel Prize Winners Analysis
+This project explores historical Nobel Prize winner data to uncover trends, answer insightful questions, and practice key data analysis skills using Python and pandas. In this analysis, I explored the Nobel Prize dataset to investigate a variety of questions, such as:
+
+- Which categories have had the most winners?
+- What is the gender distribution over the years?
+- Which decades had the highest proportions of U.S.-born winners?
+- Who was the first woman to win a Nobel Prize?
+
+### Skills Practiced
+This project helped strengthen my skills in: Data aggregation with groupby(), Summary statistics with Min(),Max(),Mean(), Subsetting and filtering DataFrames and Creating visualizations with matplotlib and seaborn
