@@ -36,3 +36,15 @@ This project explores historical Nobel Prize winner data to uncover trends, answ
 
 ### Skills Practiced
 This project helped strengthen my skills in: Data aggregation with groupby(), Summary statistics with Min(),Max(),Mean(), Subsetting and filtering DataFrames and Creating visualizations with matplotlib and seaborn
+
+## Project 5 - 📊 Crime Analysis in Los Angeles
+This project involves analyzing crime data from Los Angeles to assist the LAPD in identifying patterns in criminal activity. The goal is to support strategic decision-making around resource allocation and crime prevention. Key objectives include:
+
+- Understand the frequency and distribution of crimes across LA.
+- Analyze temporal trends to determine when crimes are most likely to occur.
+- Identify which communities are most affected by specific crime types.
+
+### Techniques Used
+- Data cleaning and manipulation using pandas
+- Aggregation and grouping to analyze trends and hotspots
+- Visualization with seaborn and matplotlib (e.g., countplots) to explore patterns in time, type, and location of crimes
